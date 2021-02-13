@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<div>
-  <p>.</p>
-  <script>
-    alert('.')
-  </script>
-</div>
 <!--
 **juanber84/juanber84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
